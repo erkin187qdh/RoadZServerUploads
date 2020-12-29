@@ -1,0 +1,13 @@
+C:\Users\Ervin\OneDrive - htl-donaustadt.at\Schule\Diplomarbeit\Programmierarbeit\Dotnet\DB Tool\DB Connector\DB Connector\bin\Debug\netcoreapp3.0\DB Connector.exe
+C:\Users\Ervin\OneDrive - htl-donaustadt.at\Schule\Diplomarbeit\Programmierarbeit\Dotnet\DB Tool\DB Connector\DB Connector\obj\Debug\netcoreapp3.0\DB Connector.csprojAssemblyReference.cache
+C:\Users\Ervin\OneDrive - htl-donaustadt.at\Schule\Diplomarbeit\Programmierarbeit\Dotnet\DB Tool\DB Connector\DB Connector\obj\Debug\netcoreapp3.0\DB Connector.AssemblyInfoInputs.cache
+C:\Users\Ervin\OneDrive - htl-donaustadt.at\Schule\Diplomarbeit\Programmierarbeit\Dotnet\DB Tool\DB Connector\DB Connector\obj\Debug\netcoreapp3.0\DB Connector.AssemblyInfo.cs
+C:\Users\Ervin\OneDrive - htl-donaustadt.at\Schule\Diplomarbeit\Programmierarbeit\Dotnet\DB Tool\DB Connector\DB Connector\bin\Debug\netcoreapp3.0\DB Connector.deps.json
+C:\Users\Ervin\OneDrive - htl-donaustadt.at\Schule\Diplomarbeit\Programmierarbeit\Dotnet\DB Tool\DB Connector\DB Connector\bin\Debug\netcoreapp3.0\DB Connector.runtimeconfig.json
+C:\Users\Ervin\OneDrive - htl-donaustadt.at\Schule\Diplomarbeit\Programmierarbeit\Dotnet\DB Tool\DB Connector\DB Connector\bin\Debug\netcoreapp3.0\DB Connector.runtimeconfig.dev.json
+C:\Users\Ervin\OneDrive - htl-donaustadt.at\Schule\Diplomarbeit\Programmierarbeit\Dotnet\DB Tool\DB Connector\DB Connector\bin\Debug\netcoreapp3.0\DB Connector.dll
+C:\Users\Ervin\OneDrive - htl-donaustadt.at\Schule\Diplomarbeit\Programmierarbeit\Dotnet\DB Tool\DB Connector\DB Connector\bin\Debug\netcoreapp3.0\DB Connector.pdb
+C:\Users\Ervin\OneDrive - htl-donaustadt.at\Schule\Diplomarbeit\Programmierarbeit\Dotnet\DB Tool\DB Connector\DB Connector\bin\Debug\netcoreapp3.0\MySqlConnector.dll
+C:\Users\Ervin\OneDrive - htl-donaustadt.at\Schule\Diplomarbeit\Programmierarbeit\Dotnet\DB Tool\DB Connector\DB Connector\obj\Debug\netcoreapp3.0\DB Connector.csproj.CopyComplete
+C:\Users\Ervin\OneDrive - htl-donaustadt.at\Schule\Diplomarbeit\Programmierarbeit\Dotnet\DB Tool\DB Connector\DB Connector\obj\Debug\netcoreapp3.0\DB Connector.dll
+C:\Users\Ervin\OneDrive - htl-donaustadt.at\Schule\Diplomarbeit\Programmierarbeit\Dotnet\DB Tool\DB Connector\DB Connector\obj\Debug\netcoreapp3.0\DB Connector.pdb

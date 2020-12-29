@@ -1,0 +1,66 @@
+{
+  "format": 1,
+  "restore": {
+    "C:\\Users\\Ervin\\OneDrive - htl-donaustadt.at\\Schule\\Diplomarbeit\\Programmierarbeit\\Dotnet\\DB Tool\\DB Connector\\DB Connector\\DB Connector.csproj": {}
+  },
+  "projects": {
+    "C:\\Users\\Ervin\\OneDrive - htl-donaustadt.at\\Schule\\Diplomarbeit\\Programmierarbeit\\Dotnet\\DB Tool\\DB Connector\\DB Connector\\DB Connector.csproj": {
+      "version": "1.0.0",
+      "restore": {
+        "projectUniqueName": "C:\\Users\\Ervin\\OneDrive - htl-donaustadt.at\\Schule\\Diplomarbeit\\Programmierarbeit\\Dotnet\\DB Tool\\DB Connector\\DB Connector\\DB Connector.csproj",
+        "projectName": "DB Connector",
+        "projectPath": "C:\\Users\\Ervin\\OneDrive - htl-donaustadt.at\\Schule\\Diplomarbeit\\Programmierarbeit\\Dotnet\\DB Tool\\DB Connector\\DB Connector\\DB Connector.csproj",
+        "packagesPath": "C:\\Users\\Ervin\\.nuget\\packages\\",
+        "outputPath": "C:\\Users\\Ervin\\OneDrive - htl-donaustadt.at\\Schule\\Diplomarbeit\\Programmierarbeit\\Dotnet\\DB Tool\\DB Connector\\DB Connector\\obj\\",
+        "projectStyle": "PackageReference",
+        "configFilePaths": [
+          "C:\\Users\\Ervin\\AppData\\Roaming\\NuGet\\NuGet.Config",
+          "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
+        ],
+        "originalTargetFrameworks": [
+          "netcoreapp3.0"
+        ],
+        "sources": {
+          "C:\\Program Files (x86)\\Microsoft SDKs\\NuGetPackages\\": {},
+          "https://api.nuget.org/v3/index.json": {}
+        },
+        "frameworks": {
+          "netcoreapp3.0": {
+            "projectReferences": {}
+          }
+        },
+        "warningProperties": {
+          "warnAsError": [
+            "NU1605"
+          ]
+        }
+      },
+      "frameworks": {
+        "netcoreapp3.0": {
+          "dependencies": {
+            "MySqlConnector": {
+              "target": "Package",
+              "version": "[1.2.1, )"
+            }
+          },
+          "imports": [
+            "net461",
+            "net462",
+            "net47",
+            "net471",
+            "net472",
+            "net48"
+          ],
+          "assetTargetFallback": true,
+          "warn": true,
+          "frameworkReferences": {
+            "Microsoft.NETCore.App": {
+              "privateAssets": "all"
+            }
+          },
+          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\3.0.100\\RuntimeIdentifierGraph.json"
+        }
+      }
+    }
+  }
+}
