@@ -6,20 +6,23 @@ namespace AnalyseRoadZ
 {
     class Program
     {
+        public static readonly string HostName = "i.hate.software";
+        public static ConnectionFactory connectionFactory = new ConnectionFactory
+        {
+            HostName = HostName,
+            UserName = "roadz",
+            Password = "HA77!ngs#"
+        };
+
         static void Main(string[] args)
         {
-            const string HostName = "localhost";
-
-            ConnectionFactory connectionFactory = new ConnectionFactory
-            {
-                HostName = HostName
-            };
+            
             
 
             var connection = connectionFactory.CreateConnection();
             var channel = connection.CreateModel();
 
-            
+
 
 
 
@@ -33,8 +36,8 @@ namespace AnalyseRoadZ
 
 
 
-            channel.BasicQos(0, 1, false);              //empfangen
-            MessageReceiver messageReceiver = new MessageReceiver("NewUserData");
+            //channel.BasicQos(0, 1, false);              //empfangen
+            //MessageReceiver messageReceiver = new MessageReceiver("NewUserData");
 
             //messageReceiver.startReceiving();
 

@@ -22,7 +22,7 @@ namespace AnalyseRoadZ
         }
         private void buildConnection()
         {
-            factory = new ConnectionFactory() { HostName = "localhost" };
+            factory = Program.connectionFactory;
             connection = factory.CreateConnection();
             channel = connection.CreateModel();
             consumer = new EventingBasicConsumer(channel);

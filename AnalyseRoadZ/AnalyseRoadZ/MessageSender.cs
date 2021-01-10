@@ -19,12 +19,12 @@ namespace AnalyseRoadZ
 
         private void buildConnection()
         {
-            factory = new ConnectionFactory() { HostName = "localhost" };
+            factory = Program.connectionFactory;
             connection = factory.CreateConnection();
             channel = connection.CreateModel();
             channel.QueueDeclare(queue: queueName,
-                                 durable: false,
-                                 exclusive: true,
+                                 durable: true,
+                                 exclusive: false,
                                  autoDelete: false,
                                  arguments: null);
         }

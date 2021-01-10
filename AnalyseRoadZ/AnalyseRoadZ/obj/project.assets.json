@@ -196,11 +196,11 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "C:\\Users\\Ervin\\OneDrive - htl-donaustadt.at\\Schule\\Diplomarbeit\\Programmierarbeit\\Dotnet\\AnalyseRoadZ\\AnalyseRoadZ\\AnalyseRoadZ.csproj",
+      "projectUniqueName": "C:\\Users\\Ervin\\OneDrive - htl-donaustadt.at\\Schule\\Diplomarbeit\\Programmierarbeit\\Git\\RoadZServerUploads\\AnalyseRoadZ\\AnalyseRoadZ\\AnalyseRoadZ.csproj",
       "projectName": "AnalyseRoadZ",
-      "projectPath": "C:\\Users\\Ervin\\OneDrive - htl-donaustadt.at\\Schule\\Diplomarbeit\\Programmierarbeit\\Dotnet\\AnalyseRoadZ\\AnalyseRoadZ\\AnalyseRoadZ.csproj",
+      "projectPath": "C:\\Users\\Ervin\\OneDrive - htl-donaustadt.at\\Schule\\Diplomarbeit\\Programmierarbeit\\Git\\RoadZServerUploads\\AnalyseRoadZ\\AnalyseRoadZ\\AnalyseRoadZ.csproj",
       "packagesPath": "C:\\Users\\Ervin\\.nuget\\packages\\",
-      "outputPath": "C:\\Users\\Ervin\\OneDrive - htl-donaustadt.at\\Schule\\Diplomarbeit\\Programmierarbeit\\Dotnet\\AnalyseRoadZ\\AnalyseRoadZ\\obj\\",
+      "outputPath": "C:\\Users\\Ervin\\OneDrive - htl-donaustadt.at\\Schule\\Diplomarbeit\\Programmierarbeit\\Git\\RoadZServerUploads\\AnalyseRoadZ\\AnalyseRoadZ\\obj\\",
       "projectStyle": "PackageReference",
       "configFilePaths": [
         "C:\\Users\\Ervin\\AppData\\Roaming\\NuGet\\NuGet.Config",
