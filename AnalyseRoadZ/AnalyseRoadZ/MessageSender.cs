@@ -22,7 +22,11 @@ namespace AnalyseRoadZ
             factory = new ConnectionFactory() { HostName = "localhost" };
             connection = factory.CreateConnection();
             channel = connection.CreateModel();
-            
+            channel.QueueDeclare(queue: queueName,
+                                 durable: false,
+                                 exclusive: true,
+                                 autoDelete: false,
+                                 arguments: null);
         }
 
         public void startSending(string message)

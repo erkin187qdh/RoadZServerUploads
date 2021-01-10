@@ -19,8 +19,7 @@ namespace AnalyseRoadZ
             var connection = connectionFactory.CreateConnection();
             var channel = connection.CreateModel();
 
-            channel.BasicQos(0, 1, false);              //empfangen
-            MessageReceiver messageReceiver = new MessageReceiver("NewUserData");
+            
 
 
 
@@ -32,6 +31,10 @@ namespace AnalyseRoadZ
             messageSender1.startSending("kindergeld5");
             messageSender1.startSending("kindergeld6");
 
+
+
+            channel.BasicQos(0, 1, false);              //empfangen
+            MessageReceiver messageReceiver = new MessageReceiver("NewUserData");
 
             //messageReceiver.startReceiving();
 

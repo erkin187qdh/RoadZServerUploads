@@ -1,17 +1,17 @@
 {
   "format": 1,
   "restore": {
-    "C:\\Users\\Ervin\\OneDrive - htl-donaustadt.at\\Schule\\Diplomarbeit\\Programmierarbeit\\Dotnet\\DB Tool\\DB Connector\\DB Connector\\DB Connector.csproj": {}
+    "C:\\Users\\Ervin\\OneDrive - htl-donaustadt.at\\Schule\\Diplomarbeit\\Programmierarbeit\\Git\\RoadZServerUploads\\DB Tool\\DB Connector\\DB Connector\\DB Connector.csproj": {}
   },
   "projects": {
-    "C:\\Users\\Ervin\\OneDrive - htl-donaustadt.at\\Schule\\Diplomarbeit\\Programmierarbeit\\Dotnet\\DB Tool\\DB Connector\\DB Connector\\DB Connector.csproj": {
+    "C:\\Users\\Ervin\\OneDrive - htl-donaustadt.at\\Schule\\Diplomarbeit\\Programmierarbeit\\Git\\RoadZServerUploads\\DB Tool\\DB Connector\\DB Connector\\DB Connector.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\Users\\Ervin\\OneDrive - htl-donaustadt.at\\Schule\\Diplomarbeit\\Programmierarbeit\\Dotnet\\DB Tool\\DB Connector\\DB Connector\\DB Connector.csproj",
+        "projectUniqueName": "C:\\Users\\Ervin\\OneDrive - htl-donaustadt.at\\Schule\\Diplomarbeit\\Programmierarbeit\\Git\\RoadZServerUploads\\DB Tool\\DB Connector\\DB Connector\\DB Connector.csproj",
         "projectName": "DB Connector",
-        "projectPath": "C:\\Users\\Ervin\\OneDrive - htl-donaustadt.at\\Schule\\Diplomarbeit\\Programmierarbeit\\Dotnet\\DB Tool\\DB Connector\\DB Connector\\DB Connector.csproj",
+        "projectPath": "C:\\Users\\Ervin\\OneDrive - htl-donaustadt.at\\Schule\\Diplomarbeit\\Programmierarbeit\\Git\\RoadZServerUploads\\DB Tool\\DB Connector\\DB Connector\\DB Connector.csproj",
         "packagesPath": "C:\\Users\\Ervin\\.nuget\\packages\\",
-        "outputPath": "C:\\Users\\Ervin\\OneDrive - htl-donaustadt.at\\Schule\\Diplomarbeit\\Programmierarbeit\\Dotnet\\DB Tool\\DB Connector\\DB Connector\\obj\\",
+        "outputPath": "C:\\Users\\Ervin\\OneDrive - htl-donaustadt.at\\Schule\\Diplomarbeit\\Programmierarbeit\\Git\\RoadZServerUploads\\DB Tool\\DB Connector\\DB Connector\\obj\\",
         "projectStyle": "PackageReference",
         "configFilePaths": [
           "C:\\Users\\Ervin\\AppData\\Roaming\\NuGet\\NuGet.Config",
