@@ -26,3 +26,17 @@ C:\Users\Ervin\OneDrive - htl-donaustadt.at\Schule\Diplomarbeit\Programmierarbei
 C:\Users\Ervin\OneDrive - htl-donaustadt.at\Schule\Diplomarbeit\Programmierarbeit\Dotnet\AnalyseRoadZ\AnalyseRoadZ\obj\Debug\netcoreapp3.0\AnalyseRoadZ.csproj.CopyComplete
 C:\Users\Ervin\OneDrive - htl-donaustadt.at\Schule\Diplomarbeit\Programmierarbeit\Dotnet\AnalyseRoadZ\AnalyseRoadZ\obj\Debug\netcoreapp3.0\AnalyseRoadZ.dll
 C:\Users\Ervin\OneDrive - htl-donaustadt.at\Schule\Diplomarbeit\Programmierarbeit\Dotnet\AnalyseRoadZ\AnalyseRoadZ\obj\Debug\netcoreapp3.0\AnalyseRoadZ.pdb
+C:\Users\Ervin\OneDrive - htl-donaustadt.at\Schule\Diplomarbeit\Programmierarbeit\Git\RoadZServerUploads\AnalyseRoadZ\AnalyseRoadZ\bin\Debug\netcoreapp3.0\AnalyseRoadZ.exe
+C:\Users\Ervin\OneDrive - htl-donaustadt.at\Schule\Diplomarbeit\Programmierarbeit\Git\RoadZServerUploads\AnalyseRoadZ\AnalyseRoadZ\bin\Debug\netcoreapp3.0\AnalyseRoadZ.deps.json
+C:\Users\Ervin\OneDrive - htl-donaustadt.at\Schule\Diplomarbeit\Programmierarbeit\Git\RoadZServerUploads\AnalyseRoadZ\AnalyseRoadZ\bin\Debug\netcoreapp3.0\AnalyseRoadZ.runtimeconfig.json
+C:\Users\Ervin\OneDrive - htl-donaustadt.at\Schule\Diplomarbeit\Programmierarbeit\Git\RoadZServerUploads\AnalyseRoadZ\AnalyseRoadZ\bin\Debug\netcoreapp3.0\AnalyseRoadZ.runtimeconfig.dev.json
+C:\Users\Ervin\OneDrive - htl-donaustadt.at\Schule\Diplomarbeit\Programmierarbeit\Git\RoadZServerUploads\AnalyseRoadZ\AnalyseRoadZ\bin\Debug\netcoreapp3.0\AnalyseRoadZ.dll
+C:\Users\Ervin\OneDrive - htl-donaustadt.at\Schule\Diplomarbeit\Programmierarbeit\Git\RoadZServerUploads\AnalyseRoadZ\AnalyseRoadZ\bin\Debug\netcoreapp3.0\AnalyseRoadZ.pdb
+C:\Users\Ervin\OneDrive - htl-donaustadt.at\Schule\Diplomarbeit\Programmierarbeit\Git\RoadZServerUploads\AnalyseRoadZ\AnalyseRoadZ\bin\Debug\netcoreapp3.0\RabbitMQ.Client.dll
+C:\Users\Ervin\OneDrive - htl-donaustadt.at\Schule\Diplomarbeit\Programmierarbeit\Git\RoadZServerUploads\AnalyseRoadZ\AnalyseRoadZ\bin\Debug\netcoreapp3.0\System.Threading.Channels.dll
+C:\Users\Ervin\OneDrive - htl-donaustadt.at\Schule\Diplomarbeit\Programmierarbeit\Git\RoadZServerUploads\AnalyseRoadZ\AnalyseRoadZ\obj\Debug\netcoreapp3.0\AnalyseRoadZ.csprojAssemblyReference.cache
+C:\Users\Ervin\OneDrive - htl-donaustadt.at\Schule\Diplomarbeit\Programmierarbeit\Git\RoadZServerUploads\AnalyseRoadZ\AnalyseRoadZ\obj\Debug\netcoreapp3.0\AnalyseRoadZ.AssemblyInfoInputs.cache
+C:\Users\Ervin\OneDrive - htl-donaustadt.at\Schule\Diplomarbeit\Programmierarbeit\Git\RoadZServerUploads\AnalyseRoadZ\AnalyseRoadZ\obj\Debug\netcoreapp3.0\AnalyseRoadZ.AssemblyInfo.cs
+C:\Users\Ervin\OneDrive - htl-donaustadt.at\Schule\Diplomarbeit\Programmierarbeit\Git\RoadZServerUploads\AnalyseRoadZ\AnalyseRoadZ\obj\Debug\netcoreapp3.0\AnalyseRoadZ.csproj.CopyComplete
+C:\Users\Ervin\OneDrive - htl-donaustadt.at\Schule\Diplomarbeit\Programmierarbeit\Git\RoadZServerUploads\AnalyseRoadZ\AnalyseRoadZ\obj\Debug\netcoreapp3.0\AnalyseRoadZ.dll
+C:\Users\Ervin\OneDrive - htl-donaustadt.at\Schule\Diplomarbeit\Programmierarbeit\Git\RoadZServerUploads\AnalyseRoadZ\AnalyseRoadZ\obj\Debug\netcoreapp3.0\AnalyseRoadZ.pdb
