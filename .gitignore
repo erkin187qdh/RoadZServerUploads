@@ -338,3 +338,8 @@ ASALocalRun/
 
 # BeatPulse healthcheck temp database
 healthchecksdb
+AnalyseRoadZ/AnalyseRoadZ/obj/Debug/netcoreapp3.0/AnalyseRoadZ.dll
+AnalyseRoadZ/AnalyseRoadZ/obj/Debug/netcoreapp3.0/AnalyseRoadZ.pdb
+AnalyseRoadZ/AnalyseRoadZ/bin/Debug/netcoreapp3.0/AnalyseRoadZ.pdb
+AnalyseRoadZ/AnalyseRoadZ/bin/Debug/netcoreapp3.0/AnalyseRoadZ.dll
+AnalyseRoadZ/.vs/AnalyseRoadZ/v16/.suo

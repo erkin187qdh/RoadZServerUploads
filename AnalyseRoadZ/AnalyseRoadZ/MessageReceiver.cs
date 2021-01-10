@@ -13,7 +13,7 @@ namespace AnalyseRoadZ
         private IConnection connection;
         ConnectionFactory factory;
         EventingBasicConsumer consumer;
-        int messageCounter = 0;
+        private int messageCounter = 0;
 
         public MessageReceiver(string queueName)
         {
